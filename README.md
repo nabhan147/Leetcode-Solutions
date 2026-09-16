@@ -1,7 +1,7 @@
 # LeetCode Solutions
 
-**Name:** Nabhan
-**Roll Number:** _fill in_
+**Name:** Nabhanuddin Safiri
+**Roll Number:** R25EJ082
 
 Personal LeetCode practice log — part of B25GE0101 portfolio
 
